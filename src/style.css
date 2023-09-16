@@ -1,0 +1,37 @@
+.map {
+  width: 300px;
+  padding: 20px 20px;
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+  margin: 20px 20px;
+}
+.currentTemp {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+}
+.currentWeather {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+}
+.days {
+  font-family: "Poppins", sans-serif;
+  margin: 20px;
+  font-size: 35px;
+}
+.emoji {
+  margin-bottom: 30px;
+  font-size: 35px;
+}
+.submit {
+  color: green;
+  border: green;
+  background-color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+.search {
+  color: green;
+  font-family: "Poppins", sans-serif;
+}
